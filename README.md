@@ -1,3 +1,3 @@
 # Girish
 This is my first repository
-AUthor- Girish Bavalekar
+Name- Girish Bavalekar
